@@ -1,6 +1,19 @@
 # 🚀 Pilot: Your Personal GitHub Assistant
 
-Pilot is a powerful GitHub assistant designed to help you manage your repositories more efficiently. This repository serves as a central hub for bug reports and feature requests for Pilot.
+> 🎉 **Beta testers wanted!** 
+> 
+> We're looking for beta testers to help us improve Pilot. [Sign up here](https://pilot-frontend-tau.vercel.app/) and use the test credit card number "4111-1111-1111-1111" for the Stripe subscription. Your feedback is invaluable!
+
+## What Pilot Can Do
+
+Pilot is an AI-powered GitHub assistant that can:
+- Complete tasks in your repository
+- Open pull requests automatically
+- Streamline your GitHub workflow
+- Handle repetitive tasks
+- Adapt to your specific development needs
+
+Thank you for beta testing Pilot! Your input will help us refine and enhance this tool for the entire developer community.
 
 ## 🐛 Reporting Bugs
 
